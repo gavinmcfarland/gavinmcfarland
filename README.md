@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I create Figma plugins and widgets to help designers and developers in their day-to-day work.
+
+I'm currently working on the next release of [Table Creator](https://www.figma.com/community/plugin/885838970710285271/Table-Creator).
+
 <!--
 **gavinmcfarland/gavinmcfarland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
