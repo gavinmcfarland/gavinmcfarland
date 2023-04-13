@@ -10,7 +10,7 @@ These are the Figma plugins which I've created:
 - [Slot Editor](https://www.figma.com/community/plugin/1017768834174399811/Slot-Editor)
 - [Node Decoder](https://www.figma.com/community/plugin/933372797518031971/Node-Decoder)
 
-I'm currently working on the next release of [Layer Styles](https://www.figma.com/community/plugin/908303483495091267/Layer-Styles).
+I'm currently working on a new Figma plugin.
 
 <!--
 **gavinmcfarland/gavinmcfarland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
